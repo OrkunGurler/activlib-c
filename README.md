@@ -1,2 +1,2 @@
 # activlib
-Activation Functions for Neural Network Library (nnetlib)
+Activation Functions for Neural Network Library (nnetlib-c)
